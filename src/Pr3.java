@@ -5,6 +5,10 @@ public class Pr3 {
    {
        System.out.println("Helo");
        System.out.println("Helo");
+       System.out.println("Helo");
+       System.out.println("Helo");
+       System.out.println("Helo");
+       System.out.println("Helo");
    }
 }
 
